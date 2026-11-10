@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated images
+*_LogisticEnc.png
+*_LogisticDec.png
+*_HenonEnc.png
+*_HenonDec.png
+
+# Test images (not redistributed)
+images/*.tif
+
+# OS
+.DS_Store
+Thumbs.db

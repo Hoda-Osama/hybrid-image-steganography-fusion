@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "A New Hybrid Model for Secure Image Steganography Using Fusion"
+authors:
+  - family-names: Kamal
+    given-names: Yasmina Ayman
+  - family-names: Elkhodary
+    given-names: Hoda Osama
+  - family-names: Youssef
+    given-names: Sherin M.
+preferred-citation:
+  type: article
+  title: "A New Hybrid Model for Secure Image Steganography Using Fusion"
+  authors:
+    - family-names: Kamal
+      given-names: Yasmina Ayman
+    - family-names: Elkhodary
+      given-names: Hoda Osama
+    - family-names: Youssef
+      given-names: Sherin M.
+  journal: "Journal of Advanced Research in Applied Sciences and Engineering Technology"
+  volume: 62
+  issue: 3
+  start: 31
+  end: 40
+  year: 2024
+  doi: "10.37934/araset.62.3.3140"
+  url: "https://semarakilmu.com.my/journals/index.php/applied_sciences_eng_tech/article/view/6397"
